@@ -1,6 +1,6 @@
 # colour-picker
 
-Mobile UI interaction concept I developed a while ago and then decided to screencap and publish on Dribbble.
+Mobile UI interaction concept I developed a while ago and then decided to screencap and publish on [Dribbble](https://dribbble.com/shots/11083737-Mobile-Color-Picker).
 
 ![](colour-picker-preview.gif)
 
